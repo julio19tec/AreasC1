@@ -1,0 +1,10 @@
+C:\Users\Julio Ibarra\source\repos\AreasC1\AreasC1\bin\Debug\AreasC1.exe.config
+C:\Users\Julio Ibarra\source\repos\AreasC1\AreasC1\bin\Debug\AreasC1.exe
+C:\Users\Julio Ibarra\source\repos\AreasC1\AreasC1\bin\Debug\AreasC1.pdb
+C:\Users\Julio Ibarra\source\repos\AreasC1\AreasC1\obj\Debug\AreasC1.csprojAssemblyReference.cache
+C:\Users\Julio Ibarra\source\repos\AreasC1\AreasC1\obj\Debug\AreasC1.Form1.resources
+C:\Users\Julio Ibarra\source\repos\AreasC1\AreasC1\obj\Debug\AreasC1.Properties.Resources.resources
+C:\Users\Julio Ibarra\source\repos\AreasC1\AreasC1\obj\Debug\AreasC1.csproj.GenerateResource.cache
+C:\Users\Julio Ibarra\source\repos\AreasC1\AreasC1\obj\Debug\AreasC1.csproj.CoreCompileInputs.cache
+C:\Users\Julio Ibarra\source\repos\AreasC1\AreasC1\obj\Debug\AreasC1.exe
+C:\Users\Julio Ibarra\source\repos\AreasC1\AreasC1\obj\Debug\AreasC1.pdb
